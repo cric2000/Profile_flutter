@@ -1,6 +1,6 @@
-# flutter_myprofile
+# Flutter_myprofile
 
-A new Flutter application.
+Profile using flutter
 
 ## Getting Started
 
